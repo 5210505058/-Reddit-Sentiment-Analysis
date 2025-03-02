@@ -46,9 +46,13 @@ Bu komut, Reddit'ten verileri çekecek, duygu analizi yapacak ve sonuçları gö
 
 ### Pasta Grafiği (Pie Chart)
 Gönderilerin duygu dağılımını gösteren bir pasta grafiği oluşturulur. Grafik, pozitif, negatif ve nötr duyguların yüzdelik dağılımını gösterir.
+![pie](https://github.com/user-attachments/assets/15f85b8a-3d9f-4f41-8931-2703f8d862e8)
+
 
 ### Kelime Bulutu (Word Cloud)
 Gönderilerde en sık kullanılan kelimeleri gösteren bir kelime bulutu oluşturulur.
+![year](https://github.com/user-attachments/assets/ca1c67cf-082e-4a92-8a7e-855df78750ce)
+
 
 ### CSV Dosyası
 Analiz sonuçları `reddit_sentiment_analysis.csv` adlı bir CSV dosyasına kaydedilir. Bu dosya, her gönderinin metnini ve duygu skorlarını içerir.
@@ -58,6 +62,5 @@ Analiz sonuçları `reddit_sentiment_analysis.csv` adlı bir CSV dosyasına kayd
 Bu proje **MIT lisansı** altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
 
 > **Not:** Bu proje eğitim amaçlı olarak geliştirilmiştir. Reddit API'sini kullanırken, Reddit'in kullanım koşullarına ve kurallarına uygun davranmayı unutmayın.
-> [pie](https://github.com/user-attachments/assets/ded828b3-c0e0-404c-835d-99a261ffa372)
-> ![year](https://github.com/user-attachments/assets/7be31538-d57e-469d-838a-839f3b13f7cb)
+
 
