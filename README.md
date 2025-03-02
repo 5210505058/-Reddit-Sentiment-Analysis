@@ -58,3 +58,6 @@ Analiz sonuçları `reddit_sentiment_analysis.csv` adlı bir CSV dosyasına kayd
 Bu proje **MIT lisansı** altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
 
 > **Not:** Bu proje eğitim amaçlı olarak geliştirilmiştir. Reddit API'sini kullanırken, Reddit'in kullanım koşullarına ve kurallarına uygun davranmayı unutmayın.
+![pie](https://github.com/user-attachments/assets/ded828b3-c0e0-404c-835d-99a261ffa372)
+> ![year](https://github.com/user-attachments/assets/7be31538-d57e-469d-838a-839f3b13f7cb)
+
