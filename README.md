@@ -46,11 +46,13 @@ Bu komut, Reddit'ten verileri çekecek, duygu analizi yapacak ve sonuçları gö
 
 ### Pasta Grafiği (Pie Chart)
 Gönderilerin duygu dağılımını gösteren bir pasta grafiği oluşturulur. Grafik, pozitif, negatif ve nötr duyguların yüzdelik dağılımını gösterir.
+
 ![pie](https://github.com/user-attachments/assets/15f85b8a-3d9f-4f41-8931-2703f8d862e8)
 
 
 ### Kelime Bulutu (Word Cloud)
 Gönderilerde en sık kullanılan kelimeleri gösteren bir kelime bulutu oluşturulur.
+
 ![year](https://github.com/user-attachments/assets/ca1c67cf-082e-4a92-8a7e-855df78750ce)
 
 
